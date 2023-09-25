@@ -1,0 +1,4 @@
+Operadores
+* Aritméticos(+soma -subt *mult /div %rest div **potencia)
+* Relacionais (> maior < menor == igual != diferente = atribuiçao)
+* Lógicos (and = & or = | XOR) && <=> and
